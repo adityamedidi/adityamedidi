@@ -1,75 +1,100 @@
 
+<!-- ========================================= -->
+<!-- ADITYA MEDIDI - GITHUB PROFILE README     -->
+<!-- ========================================= -->
+
 <div align="center">
 
-# 👋 Hi, I'm Aditya Medidi
+<img src="assets/github-banner.png" width="100%" alt="Aditya Medidi Full Stack Developer Banner" />
+
+<br/>
+
+# Hi, I'm Aditya Medidi 👋
 
 ### Full-Stack Developer | React.js | Node.js | Java
 
-Building practical applications with clean code and modern technologies.
+Building modern applications, solving real-world problems
+and continuously improving my development skills.
 
-[![GitHub](https://img.shields.io/badge/GitHub-AdityaMedidi-181717?style=for-the-badge&logo=github)](https://github.com/adityamedidi)
-[![Repositories](https://img.shields.io/badge/Explore-My_Projects-2563EB?style=for-the-badge&logo=github)](https://github.com/adityamedidi?tab=repositories)
+<br/>
+
+<a href="https://github.com/adityamedidi">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/adityamedidi?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-Explore-blue?style=for-the-badge&logo=github" />
+</a>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 👨‍💻 Passionate about full-stack development.
-- 🌱 Continuously learning and improving my technical skills.
-- 💻 Interested in building scalable web applications.
-- 🔧 Enjoy solving problems and debugging applications.
-- 🎯 Focused on writing clean, maintainable code.
-- 🤝 Open to software development opportunities and collaboration.
+I'm a passionate software developer interested in building
+reliable, user-friendly and scalable applications.
 
----
-
-## 💻 Technical Skills
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+- 💻 Interested in Full-Stack Web Development.
+- ⚛️ Working with React.js and JavaScript.
+- 🖥️ Exploring backend development using Node.js and Java.
+- 🗄️ Interested in database design and management.
+- 🔍 Enjoy debugging and solving technical challenges.
+- 🌱 Always learning and exploring new technologies.
+- 🎯 Looking for opportunities to contribute to real-world projects.
 
 ---
 
-## 🔥 Featured Projects
+## 🛠️ Technologies & Tools
+
+### Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+### Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+### Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+## 🚀 Featured Projects
 
 ### 🤖 AI Review Engine
-AI-focused code review project.
+
+An AI-focused application project.
 
 [View Repository](https://github.com/adityamedidi/ai-review-engine)
 
-### 🏥 Hospital Management SQL
-Database project focused on hospital management.
-
-[View Repository](https://github.com/adityamedidi/hospital-management-sql)
-
 ### 🎬 Netflix Clone
-A streaming platform-inspired frontend project.
+
+A streaming-platform-inspired frontend application.
 
 [View Repository](https://github.com/adityamedidi/netflix-clone)
 
+### 🏥 Hospital Management SQL
+
+A database project focused on hospital management.
+
+[View Repository](https://github.com/adityamedidi/hospital-management-sql)
+
 ### 🔨 LiveBid
-Live bidding application project.
+
+A project focused on live bidding functionality.
 
 [Explore My Repositories](https://github.com/adityamedidi?tab=repositories)
 
@@ -79,45 +104,56 @@ Live bidding application project.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=adityamedidi&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityamedidi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityamedidi&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=adityamedidi&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityamedidi&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 🔥 GitHub Contribution Streak
 
 <div align="center">
 
-[![Aditya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adityamedidi&theme=tokyo-night&hide_border=true)](https://github.com/adityamedidi)
+<img src="https://streak-stats.demolab.com?user=adityamedidi&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🎯 Currently Working On
-
-- Improving full-stack development skills.
-- Building practical web applications.
-- Learning advanced backend development.
-- Improving problem-solving and coding practices.
-
----
-
-## 🤝 Connect With Me
+## 📈 Contribution Activity
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github)](https://github.com/adityamedidi)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityamedidi&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
-📩 Open to collaboration and software development opportunities.
+</div>
 
-### ⭐ Thanks for visiting my profile!
+---
+
+## 🎯 Current Goals
+
+- Build practical full-stack applications.
+- Improve Java and backend development skills.
+- Develop better problem-solving abilities.
+- Learn software architecture and system design.
+- Contribute to meaningful development projects.
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/adityamedidi">
+  <img src="https://img.shields.io/badge/GitHub-Connect-181717?style=for-the-badge&logo=github" />
+</a>
+
+<br/><br/>
+
+💼 Open to software development opportunities and collaboration.
+
+### Thanks for visiting my profile! ⭐
 
 </div>
